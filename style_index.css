@@ -1,0 +1,449 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+ .part1
+ {
+   background-image: url(imge/business-2.jpg);
+background-color: rgb(104, 104, 104);;
+   background-size:cover  ;
+
+   background-repeat: no-repeat;
+   font-family: 'Open Sans', sans-serif;
+   overflow: auto;
+
+   padding: 28px 18px 
+   
+   
+
+
+
+ }
+.part1 .image1
+ {
+   
+   float: left;
+    width:  47%
+  
+     }
+     .part1 .image1 img
+     { 
+        
+        width: 250px;
+        height: 35px;
+        padding: 0 50
+     }
+     .part1 .nav
+     {
+  text-align: center;
+   float: left;  
+    width: 50%;
+padding: 0 0 0 20;
+
+font-weight: bold;  
+
+
+     
+
+     }
+
+    
+      .part1 .nav a{
+        text-decoration-line: none;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 10px 25px;
+  font-size: 17px;
+  
+
+
+      }
+.part1 .nav .brdr
+
+{ 
+width: 50;
+height: 3PX;
+background-color: aqua;  
+margin: 1px 80px;
+
+
+}
+.text1{
+   margin: 250px auto 0  ;
+   width: 80%;
+   text-align: center;
+   font-weight: bold;
+   margin-bottom: 300;
+}
+
+.text1 .prg
+{ 
+   font-size: 50px;
+}
+      .nav a.cont
+     {
+
+ background-color: white;
+
+ border: none;
+ 
+ border-radius: 10px;
+ color: black;
+
+     } 
+
+     .nav a.cont:hover
+     {
+        background: rgb(21, 204, 21)
+
+     }
+     .part1 .text1 .butn1
+     {
+        margin-top: 50px;
+     
+        font-size: 18px;
+        font-weight: bold;
+        padding: 15px 40px;
+        border-radius:5px ;
+      border: none;
+      background-color: rgb(21, 204, 21);
+     }
+     .part1 .text1 .butn1:hover
+     {
+        background-color: azure;
+        color: black;
+     }
+
+
+.pp2
+{    overflow: auto ;
+   padding: 0 10%;
+}
+      .part2
+     {
+      float: left;
+        width: 33.33%;
+        margin: 50px auto ;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 35px;
+      color:black;
+   
+     }
+     .pp2 .part2 .prg2
+     {
+        width: 80%;
+        font-size: 20px;
+       
+        color: rgb(65, 56, 56);
+     }
+     
+     
+.ppp3
+{
+  
+   background-color: rgb(129, 120, 120);
+   overflow: auto;
+   text-align: center;
+   margin: auto;
+   padding: 0 0 50 0;
+  
+}
+.ppp3 h2
+{
+   color:white;
+   font-family: 'Times New Roman', Times;
+   font-size: 50px;
+}
+.ppp3 h3
+{
+   color:brown;
+   font-family: 'Times New Roman', Times;
+   font-size: 30px;
+}
+
+.ppp3 p
+{
+   color: black;
+   font-size: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ppp3 .serv
+{
+   text-align: center;
+   background-color: pink;
+   float: left;
+   width: 30%;
+   margin: auto 20;
+   color:black;
+  
+}   
+
+.ppp3 .serv img
+{
+   width: 100%;
+}
+.ppp3 .serv .prg3
+{
+   font-size: 18px;
+   width: 100%;
+   text-align: center;
+  
+
+}
+
+
+ .p4
+ {overflow: auto;
+ width: 90%;
+ margin: 100 auto;
+}
+.p4 .part4
+{
+   float: left;
+   width: 40%;
+
+}
+.p4 .part44
+{
+   float: left;
+   width: 45%;
+   height: auto;
+}
+.p4 .part4 img
+{
+   width: 70%;
+}
+.p4 h2
+{
+
+   padding: 50 10 20 0 ;
+   font-size: 40px;
+}
+.p4 .prg4
+{
+   width: 90%;
+   font-size: 20px;
+   padding: 10 0 10 0;
+}
+    .p4 .butn1
+    {
+       margin-top: 50px;
+    
+       font-size: 18px;
+       font-weight: bold;
+       padding: 15px 40px;
+       border-radius:5px ;
+     border: none;
+     background-color: rgb(21, 204, 21);
+    }
+     .p4 .butn1:hover
+     {
+        background-color: black;
+        color: white;
+     }
+
+
+
+.p5
+{
+   overflow: auto;
+background-color: gainsboro;
+padding: 0 0 80 0;
+}
+.p5 .part5
+{
+   float: left;
+   width: 30%;
+   margin: 20 20 ;
+   
+padding: 0 0 20 10;
+   padding-top: 100px;
+}
+.p5 .part5 .prg5
+{
+   background-color: cornsilk;
+   margin: auto;
+   padding: 8%;
+   width: 100%;
+   font-size: 19px;
+}
+.p6
+{overflow: auto;
+}
+.p6 .part6{
+   float: left;
+   margin: 40px  auto;
+   padding: 10 20 50 10%;
+}
+.p6 .part6 .icon
+{
+   padding: 0 0 0 60;
+   width: 20%;
+   font-size: 30px;
+}
+
+.p6 .part6 .prg6
+{
+   width: 23%;
+   font-size: 60px;
+}
+.p7
+{
+   background-image: url(imge/download.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   overflow: auto;
+   margin: auto;
+   
+}
+.p7 .part7
+{
+  
+   text-align: center;
+ height: 500;
+ padding: 20% 23% ;
+ color: ivory;
+ 
+}
+.p7 .part7 .prg7
+{ text-align: center; 
+ font-size: 20px;
+}
+
+ .p7 .part7 .butn1
+ {
+    margin-top: 50px;
+ 
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 40px;
+    border-radius:5px ;
+  border: none;
+  background-color: rgb(21, 204, 21);
+ }
+
+ .p7 .part7 .butn1:hover
+ {
+    background-color: white;
+    color: black;
+ }
+.part8
+{
+   margin: 100px;
+   text-align: center;
+}
+.part8 p
+{
+   font-size: 20px;
+}
+.p9
+{
+   overflow: auto;
+   margin: 50px 0;
+}
+.p9 .part9
+{ 
+   float: left;
+   width: 30%;
+   padding: 3%;
+   margin: 0 10 ;
+}
+.part10
+{
+   overflow: auto;
+   background-color: rgb(248, 248, 248);
+   padding: 50 100;   
+}
+.part10 .p10
+{
+   float: left;
+   width: 25%;
+}
+.part10 .p10 img
+{ 
+   width: 150;
+   height: 50;
+}
+.part11
+{
+   background: rgb(39, 202, 39);
+   color: white;
+   overflow: auto;
+   widows: 100%;
+   
+}
+.part11 .p11
+{
+   float: left;
+   width: 50%;
+   padding: 10 7%;
+}
+.part11 .p11 h2
+{
+   font-size: 30px;
+}
+.part11 .p11 p
+{
+   font-size: 20px;
+}
+.part11 .pp11 
+{
+   text-align: right;
+}
+.part11 .pp11 .butn1
+{
+   font-size: 20px;
+   padding: 30 20 ;
+   border: none;
+   border-radius: 10px;
+   background-color: white;
+   color: black;
+   margin: 50 50;
+   font-size: 16;
+   font-weight: bold;
+
+}
+
+.part11 .pp11 .butn1:hover
+     {
+        background-color: black;
+        color: white;
+     }
+     .part12
+     {
+     
+        background-color: black;
+        overflow: auto;
+        color: white;
+     }
+     .part12 .p12
+     {
+        float: left;
+        width: 22%;
+        padding: 20 20;
+        font-size: 16px;
+     }
+     .part12 .p12 p
+     {
+        color: grey;
+     }
+     .part12 .p12 ul
+     {
+        color: grey;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
